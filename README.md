@@ -1,8 +1,10 @@
 # Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
+An app that uses convolutional neural networks to classify an image as either a Chevy pick-up truck or a cybertruck.
+
 This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+The sample app described here is up at https://fastai-v3.onrender.com. Test it out with truck images!
 
 You can test your changes locally by installing Docker and using the following command:
 
